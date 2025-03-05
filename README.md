@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anjana @anjana-1311
-- 👀 I’m interested in Figma, HTMl/CSS
+- 👀 I’m interested in Figma, HTML/CSS
 - 🌱 I’m currently learning Javascript, Typescript
 - 💞️ I’m looking to collaborate on figma designs, html/css development, typescript basics
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/anjana-gurjar-4b8466188/)
